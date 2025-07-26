@@ -8,3 +8,6 @@ https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 
 3. SpaceTimeActions 数据集（人物跳跃数据集）下载地址：
 https://www.wisdom.weizmann.ac.il/~vision/VideoAnalysis/Demos/SpaceTimeActions/DB/jump.zip
+
+4. Audio_Speech_Actors_01-24 数据集（语音数据集）下载地址：
+https://zenodo.org/records/1188976/files/Audio_Speech_Actors_01-24.zip
